@@ -1,0 +1,16 @@
+C:\Users\Gustavo\C#\Teste04Avanade\obj\Debug\net5.0\Teste04Avanade.csproj.AssemblyReference.cache
+C:\Users\Gustavo\C#\Teste04Avanade\obj\Debug\net5.0\Teste04Avanade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\C#\Teste04Avanade\obj\Debug\net5.0\Teste04Avanade.AssemblyInfoInputs.cache
+C:\Users\Gustavo\C#\Teste04Avanade\obj\Debug\net5.0\Teste04Avanade.AssemblyInfo.cs
+C:\Users\Gustavo\C#\Teste04Avanade\obj\Debug\net5.0\Teste04Avanade.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\C#\Teste04Avanade\bin\Debug\net5.0\Teste04Avanade.exe
+C:\Users\Gustavo\C#\Teste04Avanade\bin\Debug\net5.0\Teste04Avanade.deps.json
+C:\Users\Gustavo\C#\Teste04Avanade\bin\Debug\net5.0\Teste04Avanade.runtimeconfig.json
+C:\Users\Gustavo\C#\Teste04Avanade\bin\Debug\net5.0\Teste04Avanade.runtimeconfig.dev.json
+C:\Users\Gustavo\C#\Teste04Avanade\bin\Debug\net5.0\Teste04Avanade.dll
+C:\Users\Gustavo\C#\Teste04Avanade\bin\Debug\net5.0\ref\Teste04Avanade.dll
+C:\Users\Gustavo\C#\Teste04Avanade\bin\Debug\net5.0\Teste04Avanade.pdb
+C:\Users\Gustavo\C#\Teste04Avanade\obj\Debug\net5.0\Teste04Avanade.dll
+C:\Users\Gustavo\C#\Teste04Avanade\obj\Debug\net5.0\ref\Teste04Avanade.dll
+C:\Users\Gustavo\C#\Teste04Avanade\obj\Debug\net5.0\Teste04Avanade.pdb
+C:\Users\Gustavo\C#\Teste04Avanade\obj\Debug\net5.0\Teste04Avanade.genruntimeconfig.cache
