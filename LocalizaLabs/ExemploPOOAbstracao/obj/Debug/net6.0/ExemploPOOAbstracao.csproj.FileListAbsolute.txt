@@ -1,0 +1,15 @@
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\bin\Debug\net6.0\ExemploPOOAbstracao.exe
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\bin\Debug\net6.0\ExemploPOOAbstracao.deps.json
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\bin\Debug\net6.0\ExemploPOOAbstracao.runtimeconfig.json
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\bin\Debug\net6.0\ExemploPOOAbstracao.dll
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\bin\Debug\net6.0\ref\ExemploPOOAbstracao.dll
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\bin\Debug\net6.0\ExemploPOOAbstracao.pdb
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\obj\Debug\net6.0\ExemploPOOAbstracao.csproj.AssemblyReference.cache
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\obj\Debug\net6.0\ExemploPOOAbstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\obj\Debug\net6.0\ExemploPOOAbstracao.AssemblyInfoInputs.cache
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\obj\Debug\net6.0\ExemploPOOAbstracao.AssemblyInfo.cs
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\obj\Debug\net6.0\ExemploPOOAbstracao.csproj.CoreCompileInputs.cache
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\obj\Debug\net6.0\ExemploPOOAbstracao.dll
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\obj\Debug\net6.0\ref\ExemploPOOAbstracao.dll
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\obj\Debug\net6.0\ExemploPOOAbstracao.pdb
+C:\Users\LuizB\Documents\DIO\Bootcamps\LocalizaLabs\ExemploPOOAbstracao\obj\Debug\net6.0\ExemploPOOAbstracao.genruntimeconfig.cache
