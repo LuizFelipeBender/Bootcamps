@@ -1,0 +1,30 @@
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\bin\Debug\net6.0\ConsoleAPP.exe
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\bin\Debug\net6.0\ConsoleAPP.deps.json
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\bin\Debug\net6.0\ConsoleAPP.runtimeconfig.json
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\bin\Debug\net6.0\ConsoleAPP.dll
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\bin\Debug\net6.0\ref\ConsoleAPP.dll
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\bin\Debug\net6.0\ConsoleAPP.pdb
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\obj\Debug\net6.0\ConsoleAPP.csproj.AssemblyReference.cache
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\obj\Debug\net6.0\ConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\obj\Debug\net6.0\ConsoleAPP.AssemblyInfoInputs.cache
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\obj\Debug\net6.0\ConsoleAPP.AssemblyInfo.cs
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\obj\Debug\net6.0\ConsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\obj\Debug\net6.0\ConsoleAPP.dll
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\obj\Debug\net6.0\ref\ConsoleAPP.dll
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\obj\Debug\net6.0\ConsoleAPP.pdb
+C:\Users\LuizB\Downloads\AbstraindoUmJogoDeRPG-main\AbstraindoJogoRPG\ConsoleAPP\obj\Debug\net6.0\ConsoleAPP.genruntimeconfig.cache
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\bin\Debug\net6.0\ConsoleAPP.exe
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\bin\Debug\net6.0\ConsoleAPP.deps.json
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\bin\Debug\net6.0\ConsoleAPP.runtimeconfig.json
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\bin\Debug\net6.0\ConsoleAPP.dll
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\bin\Debug\net6.0\ref\ConsoleAPP.dll
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\bin\Debug\net6.0\ConsoleAPP.pdb
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\obj\Debug\net6.0\ConsoleAPP.csproj.AssemblyReference.cache
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\obj\Debug\net6.0\ConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\obj\Debug\net6.0\ConsoleAPP.AssemblyInfoInputs.cache
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\obj\Debug\net6.0\ConsoleAPP.AssemblyInfo.cs
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\obj\Debug\net6.0\ConsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\obj\Debug\net6.0\ConsoleAPP.dll
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\obj\Debug\net6.0\ref\ConsoleAPP.dll
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\obj\Debug\net6.0\ConsoleAPP.pdb
+C:\Users\LuizB\OneDrive\Área de Trabalho\Bootcamps\Bootcamps-main\gft\AbstracaoGame\obj\Debug\net6.0\ConsoleAPP.genruntimeconfig.cache
