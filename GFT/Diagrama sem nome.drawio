@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T12:07:12.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xcR6ImAFoLQvJH_GZrNa" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-28T12:42:17.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="TS3qQC6Gl2zk4L2sUtNS" version="20.3.7" type="github" pages="3">
   <diagram id="s-m2lbIZee-Xv5_GphpK" name="Objetos_De_Caso_De_Uso">
-    <mxGraphModel dx="868" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,28 +35,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xdOm3s-Yk0o98L7K5LYH" name="Cadastro">
-    <mxGraphModel dx="868" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X_mdNcFHVjT-omKekM84-3" value="Mentorado&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="X_mdNcFHVjT-omKekM84-3" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X_mdNcFHVjT-omKekM84-7" value="Mentor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="X_mdNcFHVjT-omKekM84-8" value="Cadastrar skill&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="310" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X_mdNcFHVjT-omKekM84-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_mdNcFHVjT-omKekM84-3" target="X_mdNcFHVjT-omKekM84-8">
+        <mxCell id="X_mdNcFHVjT-omKekM84-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_mdNcFHVjT-omKekM84-3" target="X_mdNcFHVjT-omKekM84-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="195" as="sourcePoint" />
-            <mxPoint x="280" y="145" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X_mdNcFHVjT-omKekM84-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_mdNcFHVjT-omKekM84-7" target="X_mdNcFHVjT-omKekM84-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="131.57685174738162" as="sourcePoint" />
+            <mxPoint x="170" y="240" as="sourcePoint" />
             <mxPoint x="350" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -70,7 +61,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X_mdNcFHVjT-omKekM84-25" value="&lt;table style=&quot;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;&#xa; mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; class=&quot;MsoTableGrid&quot;&gt;&#xa; &lt;tbody&gt;&lt;tr style=&quot;mso-yfti-irow:0;mso-yfti-firstrow:yes&quot;&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border:solid windowtext 1.0pt;&#xa;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;text-align:center;&#xa;  line-height:normal&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;Nome&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border:solid windowtext 1.0pt;&#xa;  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:&#xa;  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;&lt;span style=&quot;mso-tab-count:1&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;Realizar&#xa;  Cadastro&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:1&quot;&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border:solid windowtext 1.0pt;&#xa;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;&#xa;  padding:0cm 5.4pt 0cm 5.4pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;text-align:center;&#xa;  line-height:normal&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;Atores&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border-top:none;border-left:&#xa;  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;&#xa;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;&#xa;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;Mentor, Mentorado&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:2;height:42.05pt&quot;&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border:solid windowtext 1.0pt;&#xa;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;&#xa;  padding:0cm 5.4pt 0cm 5.4pt;height:42.05pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;text-align:center;&#xa;  line-height:normal&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;Resumo&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border-top:none;border-left:&#xa;  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;&#xa;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;&#xa;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.05pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;Deve ser possibilitado o cadastro do usuário com&#xa;  os dados principais de usuário&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:3;height:21.4pt&quot;&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border:solid windowtext 1.0pt;&#xa;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;&#xa;  padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;text-align:center;&#xa;  line-height:normal&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;Pré-Condições&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border-top:none;border-left:&#xa;  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;&#xa;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;&#xa;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:4;height:19.6pt&quot;&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border:solid windowtext 1.0pt;&#xa;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;&#xa;  padding:0cm 5.4pt 0cm 5.4pt;height:19.6pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;text-align:center;&#xa;  line-height:normal&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;Pós-Condições&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border-top:none;border-left:&#xa;  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;&#xa;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;&#xa;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.6pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:5;mso-yfti-lastrow:yes;height:14.2pt&quot;&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border:solid windowtext 1.0pt;&#xa;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;&#xa;  padding:0cm 5.4pt 0cm 5.4pt;height:14.2pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;text-align:center;&#xa;  line-height:normal&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;Fluxo principal&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td style=&quot;width:230.3pt;border-top:none;border-left:&#xa;  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;&#xa;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;&#xa;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.2pt&quot; valign=&quot;top&quot; width=&quot;307&quot;&gt;&#xa;  &lt;p style=&quot;margin-bottom:0cm;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-ansi-language:PT-BR&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-70" width="560" height="760" as="geometry" />
+          <mxGeometry x="100" y="300" width="560" height="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XIxy7PARVu1SM5j16MhH" name="MVP">
+    <mxGraphModel dx="862" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vmAWn5iPiY9hAJlBLCwx-1" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TleRB0PFEIPCDLv6FdY-1" value="Cadastrar usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8TleRB0PFEIPCDLv6FdY-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vmAWn5iPiY9hAJlBLCwx-1" target="8TleRB0PFEIPCDLv6FdY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="210" as="sourcePoint" />
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8TleRB0PFEIPCDLv6FdY-4" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TleRB0PFEIPCDLv6FdY-5" value="Cadastrar Skill" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8TleRB0PFEIPCDLv6FdY-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="8TleRB0PFEIPCDLv6FdY-4" target="8TleRB0PFEIPCDLv6FdY-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="243.44827586206895" as="sourcePoint" />
+            <mxPoint x="340" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8TleRB0PFEIPCDLv6FdY-8" value="Selecionar Skill" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8TleRB0PFEIPCDLv6FdY-9" value="Logar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
